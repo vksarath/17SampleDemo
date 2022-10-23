@@ -1,0 +1,1 @@
+Load list from the data: https://webcdn.17app.co/campaign/pretest/data.json

@@ -1,0 +1,1 @@
+export const DATA_URL = 'https://webcdn.17app.co/campaign/pretest/data.json';
